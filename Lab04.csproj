@@ -5,6 +5,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="lab05/**/*.cs" />
+    <Compile Remove="lab05/**/*.cs;lab06/**/*.cs" />
   </ItemGroup>
 </Project>
